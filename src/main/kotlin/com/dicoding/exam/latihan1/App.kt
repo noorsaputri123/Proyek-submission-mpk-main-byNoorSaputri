@@ -17,9 +17,7 @@ package com.dicoding.exam.latihan1
  *  Sesuaikan fungsi di bawah ini dengan kode untuk mengecek apakah parameter number
  *  merupakan angka genap
  */
-fun isEvenNumber(number: Int) : Boolean {
-    return number % 2 == 0
-} //Editor by Noor Saputri
+fun isEvenNumber(number: Int) =  number % 2 == 0 //Editor by Noor Saputri
 
 /**
  *  TODO 2
